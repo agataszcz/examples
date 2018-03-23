@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 def foo():
-	print("bar")
+	print("foo")
 
 
 if __name__ == "__main__":
